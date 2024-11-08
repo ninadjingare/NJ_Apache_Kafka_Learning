@@ -1,9 +1,9 @@
-####<ins>What is event streaming</ins>####
+#### <ins>What is event streaming</ins> ####
 Technically speaking, event streaming is the practice of capturing data in real-time from event sources like databases, sensors, mobile devices, cloud services, and software applications in the form of streams of events; storing these event streams durably for later retrieval; manipulating, processing, and reacting to the event streams in real-time as well as retrospectively; and routing the event streams to different destination technologies as needed. Event streaming thus ensures a continuous flow and interpretation of data so that the right information is at the right place, at the right time.
 
 
 
-####<ins>What can I use event streaming for?</ins>####
+#### <ins>What can I use event streaming for?</ins> ####
 Event streaming is applied to a wide variety of use cases across a plethora of industries and organizations. Its many examples include:
 
 * To process payments and financial transactions in real-time, such as in stock exchanges, banks, and insurances.
